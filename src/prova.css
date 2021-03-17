@@ -1,0 +1,38 @@
+.hidden {
+    display:none;
+}
+
+.custom-h1 {
+    font-size:6vh !important;
+    margin-top:5vh !important;
+    margin-bottom:0vh !important;
+}
+
+.container {
+    text-align:center !important;
+    font-size:3vh;
+}
+
+.row {
+    margin-top: 4vh;
+}
+
+.cardTitle {
+    font-size:3vh !important;
+    padding: 0vh !important;
+}
+
+.cardText {
+    font-size:2.5vh !important;
+    padding:2vh;
+    margin-bottom:3vh;
+}
+
+.card-body {
+    padding:0vh !important;
+
+}
+
+.card {
+    margin-bottom:2vh !important;
+}
